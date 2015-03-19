@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidPinning/AndroidPinning.iml" filepath="$PROJECT_DIR$/AndroidPinning/AndroidPinning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatSecureStudio.iml" filepath="$PROJECT_DIR$/ChatSecureStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemorizingActivity/MemorizingActivity.iml" filepath="$PROJECT_DIR$/MemorizingActivity/MemorizingActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenuLibrary/SlidingMenuLibrary.iml" filepath="$PROJECT_DIR$/SlidingMenuLibrary/SlidingMenuLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TibetanTextLibrary/TibetanTextLibrary.iml" filepath="$PROJECT_DIR$/TibetanTextLibrary/TibetanTextLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicatorLibrary/ViewPagerIndicatorLibrary.iml" filepath="$PROJECT_DIR$/ViewPagerIndicatorLibrary/ViewPagerIndicatorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidemojiinputlibrary/androidemojiinputlibrary.iml" filepath="$PROJECT_DIR$/androidemojiinputlibrary/androidemojiinputlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cachewordlib/cachewordlib.iml" filepath="$PROJECT_DIR$/cachewordlib/cachewordlib.iml" />
+    </modules>
+  </component>
+</project>
+
